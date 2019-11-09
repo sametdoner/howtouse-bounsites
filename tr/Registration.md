@@ -1,4 +1,4 @@
-# Okul genel sistemi
+# Okul genel sistemi websites
 # Registration
 ## Academic/ Courses
 ::: tip
