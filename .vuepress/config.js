@@ -7,14 +7,12 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     nav: [
-      { text: 'Registration', link: '/Registration.html' },
-      { text: 'Moodle', link: '/Moodle.html' },
-      { text: 'PLE', link: '/PLE.html' }
+      { text: 'PLE', link: '/PLE.html' },
+      { text: 'Moodle', link: '/Moodle.html' }
     ],
     sidebar: [
-    '/Registration',
-    '/Moodle',
-    '/PLE'
+    '/PLE',
+    '/Moodle'
     ]
   }
 }
