@@ -4,4 +4,4 @@
 CET PLE ve CET LMS sistemlerinin nasıl kullanıldığını öğrenebilirsiniz.
 :::
 
-[PLE hakkındaki bilgiler için](./PLE.md)
+[CET PLE için](./PLE.md)
