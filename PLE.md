@@ -1,36 +1,37 @@
 # PLE
-## Sol Menü
+
+ ## Sol Menü
 ![img](./public/SolMenu.png)
 
 ## Dersler
-Dersler başlığının altında bulunduğunuz dönem eklediğiniz dersler yer almaktadır.
+Dersler başlığının altında bulunduğunuz dönem ve eklediğiniz dersler yer almaktadır.
 
-## Gruplar
-Gruplar başlığının altında bulunduğunuz dönem katıldığınız gruplar yer almaktadır.
+### Gruplar
+Gruplar başlığının altında bulunduğunuz dönem ve katıldığınız gruplar yer almaktadır.
 ![img](./public/Gruplar.png)
 
-## Ders
+### Ders
 Ders başlığı altında o ders ile ilgili bilgilere ve katılımcı sayısına ulaşabilirsiniz.
 
-## Ödevler
+### Ödevler
 Ödevler başlığının altında o ders için öğretmenin eklediği ödevlere ve son yükleme tarihine ulaşabilirsiniz.
 
-## Testler
+### Testler
 Testler başlığının altında o ders için öğretmenin eklediği testlere ulaşabilirsiniz.
 
-## Bölümler
+### Bölümler
 Bölümler başlığı altından o ders için öğretmenin girmiş olduğu bilgilere ulaşabilirsiniz.
 
-## Materyaller
+### Materyaller
 Materyaller başlığı altından o ders için öğretmenin yüklemiş olduğu ders için gerekli materyellere ulaşabilirsiniz.
 
-## Notlar
+### Notlar
 Notlar başlığı altından öğretmenin verdiği ödevlerin veya sınavların sonuçlarına ulaşabilirsiniz.
 
-## Tartışmalar
+### Tartışmalar
 Tartışmalar başlığı altından dersle ilgili tartışmalara katılabilir veya yeni bir tartışma başlatabilirsiniz.
 
-## Katılımcılar
+### Katılımcılar
 Katılımcılar başlığı altından dersi alan diğer öğrencileri görebilir, onların iletişim bilgilerine ulaşabilirsiniz.
 
 ## Mesajlar

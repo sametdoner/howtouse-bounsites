@@ -1,18 +1,18 @@
 module.exports = {
   title: 'How to Use Boun Sites',
   locales: {
-    '/': {lang: 'EN'},
-    '/tr/': {lang: 'TR'}
+    '/': {lang: 'TR'},
+    '/en/': {lang: 'EN'}
   },
   serviceWorker: true,
   themeConfig: {
     nav: [
       { text: 'PLE', link: '/PLE.html' },
-      { text: 'Moodle', link: '/Moodle.html' }
+      { text: 'LMS', link: '/LMS.html' }
     ],
     sidebar: [
     '/PLE',
-    '/Moodle'
+    '/LMS'
     ]
   }
 }

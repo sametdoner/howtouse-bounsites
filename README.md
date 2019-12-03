@@ -1,7 +1,7 @@
-# General Information
+# Genel Bilgiler
 
 ::: tip
-You will learn how to use Bogazici University Websites on this website.
+CET PLE ve CET LMS sistemlerinin nasıl kullanıldığını öğrenebilirsiniz.
 :::
 
-[learn how to use Registration](./PLE.md)
+[PLE hakkındaki bilgiler için](./PLE.md)
