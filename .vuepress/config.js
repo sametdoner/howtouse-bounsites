@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'How to Use Boun Sites',
+  title: 'How to Use CET Systems',
   locales: {
     '/': {lang: 'TR'},
     '/en/': {lang: 'EN'}

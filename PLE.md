@@ -38,14 +38,30 @@ Katılımcılar başlığı altından dersi alan diğer öğrencileri görebilir
 Mesajlar başlığı altından yeni mesaj oluşturabilir, “Gelen” kısmından gelen mesajları, “Okunmamış” kısmından okunmamış mesajlara ve “Gönderilen” kısmından da göndermiş olduğunuz mesajlara ulaşabilirsiniz.
 
 ## Simgeler
-- icon
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-1.png)
+</span>
 Bu simge ile sayfanın sol tarafında yer alan menüsünü kapatıp açabilirsiniz.
-- icon
+:::
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-2.png)
+</span>
 Bu simge ile sayfayı tam ekran yapabilir ve “Esc” tuşu ile tam ekran modundan çıkabilirsiniz.
-- icon
+:::
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-3.png)
+</span>
 Bu simge ile mesajlarınıza ulaşabilirsiniz.
-- icon
+:::
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-4.png)
+</span>
 Ders hakkında yapılan değişiklikleri gösteren simge.
+:::
 
 ## SSS
 ### Sistem üzerinden nasıl mesaj gönderirim?
