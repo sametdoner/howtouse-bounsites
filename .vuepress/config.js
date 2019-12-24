@@ -6,13 +6,35 @@ module.exports = {
   },
   serviceWorker: true,
   themeConfig: {
-    nav: [
-      { text: 'PLE', link: '/PLE.html' },
-      { text: 'LMS', link: '/LMS.html' }
-    ],
-    sidebar: [
-    '/PLE',
-    '/LMS'
-    ]
+    locales: {
+      '/': {
+        sidebar: [
+          '/PLE',
+          '/LMS'
+        ],
+        nav: [
+          { text: 'PLE', link: '/PLE.html' },
+          { text: 'LMS', link: '/LMS.html' }
+        ],
+      },
+      '/en/': {
+        sidebar: [
+          'en/PLE',
+          'en/LMS'
+        ],
+        nav: [
+          { text: 'PLE', link: '/PLE.html' },
+          { text: 'LMS', link: '/LMS.html' }
+        ],
+      }
+    }
+    // nav: [
+    //   { text: 'PLE', link: '/PLE.html' },
+    //   { text: 'LMS', link: '/LMS.html' }
+    // ],
+    // sidebar: [
+    // '/PLE',
+    // '/LMS'
+    // ]
   }
 }
