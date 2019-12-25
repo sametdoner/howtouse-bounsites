@@ -37,14 +37,30 @@ You can see the other participants for the course, and their contact information
 You can create a new message. You can access the messages from the ”Incoming” section, the unread messages from the “Unread” section and the messages you have sent from the “Sent” section.
 
 ## Icons
-- icon
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-1.png)
+</span>
 With this icon you can close and open the menu on the left side of the page.
-- icon
+:::
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-2.png)
+</span>
 With this icon you can make the page full screen and exit the full screen mode with the “Esc” key.
-- icon
+:::
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-3.png)
+</span>
 You can access your messages with this icon.
-- icon
+:::
+::: tip
+<span style="zoom: .5;">>
+![img](./public/icon-4.png)
+</span>
 This icon shows us changes about the courses.
+:::
 
 ## FAQ
 ### How do I send messages over the system?

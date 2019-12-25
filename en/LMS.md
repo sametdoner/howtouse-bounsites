@@ -34,7 +34,6 @@ After login into the system, click “Add new course”. Select the course you w
 
 ### How can I upload my homework?
 Go to the bottom of the assignment you want to upload and click “Upload”. Then, select the file that you want to upload. Finally, you can upload your homework by clicking on the” Post " button.
-
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
 <br>
 ![img](./public/Lms-10.png)
@@ -58,7 +57,6 @@ Click on” Course Materials". Select the material you want to download.
 ## Notes and Announcement
 ### Where can I get my notes?
 Click the heading “Grades” to reach the scores you get from the assignments. In this section, you can see the scores you received for all the steps you contributed to the course at the level of your school number.
-
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
 <br>
 ![img](./public/Lms-14.png)
