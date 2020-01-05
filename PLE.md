@@ -1,10 +1,17 @@
 # PLE
 
- ## Sol Menü
-![img](./public/SolMenu.png)
-
 ## Dersler
 Dersler başlığının altında bulunduğunuz dönem ve eklediğiniz dersler yer almaktadır.
+
+<router-link to="#gruplar">Gruplar</router-link> |
+<router-link to="#ders">Ders</router-link> |
+<router-link to="#ödevler">Ödevler</router-link> |
+<router-link to="#testler">Testler</router-link> |
+<router-link to="#bölümler">Bölümler</router-link> |
+<router-link to="#materyaller">Materyaller</router-link> |
+<router-link to="#notlar">Notlar</router-link> |
+<router-link to="#tartışmalar">Tartışmalar</router-link> |
+<router-link to="#katılımcılar">Katılımcılar</router-link>
 
 ### Gruplar
 Gruplar başlığının altında bulunduğunuz dönem ve katıldığınız gruplar yer almaktadır.
@@ -34,10 +41,16 @@ Tartışmalar başlığı altından dersle ilgili tartışmalara katılabilir ve
 ### Katılımcılar
 Katılımcılar başlığı altından dersi alan diğer öğrencileri görebilir, onların iletişim bilgilerine ulaşabilirsiniz.
 
+
+ ## Sol Menü
+![img](./public/SolMenu.png)
+
+
 ## Mesajlar
 Mesajlar başlığı altından yeni mesaj oluşturabilir, “Gelen” kısmından gelen mesajları, “Okunmamış” kısmından okunmamış mesajlara ve “Gönderilen” kısmından da göndermiş olduğunuz mesajlara ulaşabilirsiniz.
 
 ## Simgeler
+
 ::: tip
 <span style="zoom: .5;">>
 ![img](./public/icon-1.png)
@@ -64,6 +77,16 @@ Ders hakkında yapılan değişiklikleri gösteren simge.
 :::
 
 ## SSS
+<router-link to="#sistem-uzerinden-nasil-mesaj-gonderirim">Sistem üzerinden nasıl mesaj gönderirim?</router-link> <br>
+<router-link to="#sistemden-nasil-cikis-yaparim">Sistemden Nasıl Çıkış Yaparım?</router-link> <br>
+<router-link to="#dersten-nasil-ayrilirim">Dersten Nasıl Ayrılırım?</router-link> <br>
+<router-link to="#dersi-beraber-aldigim-bir-arkadasimin-iletisim-bilgilerine-nasil-ulasabilirim">Dersi beraber aldığım bir arkadaşımın iletişim bilgilerine nasıl ulaşabilirim?</router-link> <br>
+<router-link to="#aldigim-notlari-nereden-ogrenebilirim">Aldığım notları nereden öğrenebilirim?</router-link> <br>
+<router-link to="#yeni-aldigim-dersi-nasil-eklerim">Yeni aldığım dersi nasıl eklerim?</router-link> <br>
+<router-link to="#profil-bilgilerimi-nasil-duzenlerim">Profil bilgilerimi nasıl düzenlerim?</router-link> <br>
+<router-link to="#sisteme-nasil-kayit-olurum">Sisteme nasıl kayıt olurum?</router-link> <br>
+<router-link to="#sifremi-unuttum-ne-yapabilirim">Şifremi unuttum ne yapabilirim?</router-link> <br>
+
 ### Sistem üzerinden nasıl mesaj gönderirim?
 Sisteme giriş yaptıktan sonra, sayfanın sağ üst tarafında yer alan mektup şeklindeki butona tıklayın. Açılan sayfada “Yeni” butonuna tıklayın.
 ![img](./public/SSS1.png)

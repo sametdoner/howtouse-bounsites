@@ -28,13 +28,5 @@ module.exports = {
         ],
       }
     }
-    // nav: [
-    //   { text: 'PLE', link: '/PLE.html' },
-    //   { text: 'LMS', link: '/LMS.html' }
-    // ],
-    // sidebar: [
-    // '/PLE',
-    // '/LMS'
-    // ]
   }
 }
