@@ -26,6 +26,7 @@ Sisteme giriş yaptıktan sonra, “Personal Information” başlığına tıkla
 ![img](./public/Lms-9.png)
 </span>
 
+<br><router-link to="#cet-lms" style="float: right;">Başa Dön</router-link><br>
 ## Dersler
 <br>
 <router-link to="#ders-nasil-eklenir">Ders nasıl eklenir?</router-link> <br>
@@ -63,6 +64,8 @@ Yüklediğiniz ödevin olduğu kısma gelip “Download your material” yazıs�
 ![img](./public/Lms-13.png)
 </span>
 
+<br><router-link to="#cet-lms" style="float: right;">Başa Dön</router-link><br>
+
 ## Notlar ve Duyurular
 <br>
 <router-link to="#aldigim-puanlara-nereden-ulasabilirim">Aldığım puanlara nereden ulaşabilirim?</router-link> <br>
@@ -90,3 +93,5 @@ Sayfanın üst kısmında yer alan “Announcements” başlığına tıklayın.
 <br>
 ![img](./public/Lms-15.png)
 </span>
+
+<br><router-link to="#cet-lms" style="float: right;">Başa Dön</router-link><br>

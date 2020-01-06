@@ -26,6 +26,7 @@ After login into the system, you can change the information by clicking on “Pe
 ![img](./public/Lms-9.png)
 </span>
 
+<br><router-link to="#cet-lms" style="float: right;">Back to Top</router-link><br>
 ## Lessons
 <br>
 <router-link to="#how-can-i-add-lesson">How can I add lesson?</router-link> <br>
@@ -90,3 +91,5 @@ Click the title ”Contact". Select the person or people you want to send a mess
 <br>
 ![img](./public/Lms-15.png)
 </span>
+
+<br><router-link to="#cet-lms" style="float: right;">Back to Top</router-link><br>

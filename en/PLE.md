@@ -41,6 +41,7 @@ You can join discussions or start a new discussion with other participants.
 ### Participants
 You can see the other participants for the course, and their contact information.
 
+<br><router-link to="#ple" style="float: right;">Back to Top</router-link><br>
 
  ## Left Menu
 ![img](./public/SolMenu.png)
@@ -126,4 +127,5 @@ You should click the "Forgot my password" then write e-mail address that registe
 ![img](./public/SSS13.png)
 ![img](./public/SSS14.png)
 
+<br><router-link to="#ple" style="float: right;">Back to Top</router-link><br>
 

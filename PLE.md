@@ -41,6 +41,7 @@ Tartışmalar başlığı altından dersle ilgili tartışmalara katılabilir ve
 ### Katılımcılar
 Katılımcılar başlığı altından dersi alan diğer öğrencileri görebilir, onların iletişim bilgilerine ulaşabilirsiniz.
 
+<br><router-link to="#ple" style="float: right;">Başa Dön</router-link><br>
 
  ## Sol Menü
 ![img](./public/SolMenu.png)
@@ -127,3 +128,5 @@ Sayfada yer alan şifremi unuttum yazısına tıklayın. Açılan sayfada sistem
 ![img](./public/SSS12.png)
 ![img](./public/SSS13.png)
 ![img](./public/SSS14.png)
+
+<br><router-link to="#ple" style="float: right;">Başa Dön</router-link><br>
