@@ -1,11 +1,19 @@
 # PLE
 
- ## Left Menu
-![img](./public/SolMenu.png)
-
 ## Lessons
 You can see your current semester and courses you have added.
-## Groups
+
+<router-link to="#groups">Groups</router-link> |
+<router-link to="#course">Course</router-link> |
+<router-link to="#homeworks">Homeworks</router-link> |
+<router-link to="#tests">Tests</router-link> |
+<router-link to="#sections">Sections</router-link> |
+<router-link to="#materials">Materials</router-link> |
+<router-link to="#results">Results</router-link> |
+<router-link to="#discussions">Discussions</router-link>
+<router-link to="#participants">Participants</router-link> |
+
+### Groups
 Under the Groups title, you can see your current semester and groups you have joined.
 ![img](./public/Gruplar.png)
 
@@ -21,7 +29,7 @@ You can see the tests for that course.
 ### Sections
 You can see the information that are added by teacher.
 
-### Materilas
+### Materials
 You can see the materials that are uploaded by teacher for the course.
 
 ### Results
@@ -33,7 +41,11 @@ You can join discussions or start a new discussion with other participants.
 ### Participants
 You can see the other participants for the course, and their contact information.
 
-### Messages
+
+ ## Left Menu
+![img](./public/SolMenu.png)
+
+## Messages
 You can create a new message. You can access the messages from the ”Incoming” section, the unread messages from the “Unread” section and the messages you have sent from the “Sent” section.
 
 ## Icons
@@ -63,6 +75,16 @@ This icon shows us changes about the courses.
 :::
 
 ## FAQ
+<router-link to="#how-do-i-send-messages-over-the-system">How do I send messages over the system?</router-link> <br>
+<router-link to="#how-do-i-log-out">How do I log out?</router-link> <br>
+<router-link to="#how-do-i-leave-the-course">How do I leave the course?</router-link> <br>
+<router-link to="#how-can-i-access-the-contact-information-of-other-participant-for-the-course">How can I access the contact information of other participant for the course?</router-link> <br>
+<router-link to="#where-can-i-learn-my-notes">Where can I learn my notes?</router-link> <br>
+<router-link to="#how-can-i-add-my-new-course">How can I add my new course?</router-link> <br>
+<router-link to="#how-do-i-edit-my-profile-information">How do I edit my profile information?</router-link> <br>
+<router-link to="#how-do-i-register">How do I register?</router-link> <br>
+<router-link to="#what-can-i-do-when-forgot-my-password">What can I do when forgot my password?</router-link> <br>
+
 ### How do I send messages over the system?
 After log in, click the letter-shaped button at the top right of the page. On the page that opens, click the "New" button.
 ![img](./public/SSS1.png)

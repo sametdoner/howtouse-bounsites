@@ -5,13 +5,13 @@ Dersler başlığının altında bulunduğunuz dönem ve eklediğiniz dersler ye
 
 <router-link to="#gruplar">Gruplar</router-link> |
 <router-link to="#ders">Ders</router-link> |
-<router-link to="#ödevler">Ödevler</router-link> |
+<router-link to="#odevler">Ödevler</router-link> |
 <router-link to="#testler">Testler</router-link> |
-<router-link to="#bölümler">Bölümler</router-link> |
+<router-link to="#bolumler">Bölümler</router-link> |
 <router-link to="#materyaller">Materyaller</router-link> |
 <router-link to="#notlar">Notlar</router-link> |
-<router-link to="#tartışmalar">Tartışmalar</router-link> |
-<router-link to="#katılımcılar">Katılımcılar</router-link>
+<router-link to="#tartismalar">Tartışmalar</router-link> |
+<router-link to="#katilimcilar">Katılımcılar</router-link> |
 
 ### Gruplar
 Gruplar başlığının altında bulunduğunuz dönem ve katıldığınız gruplar yer almaktadır.

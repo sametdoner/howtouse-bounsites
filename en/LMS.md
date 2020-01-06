@@ -1,6 +1,9 @@
 # CET LMS
 
 ## Account
+<router-link to="#how-can-i-sign-up">How can I sign up?</router-link> <br>
+<router-link to="#i-forgot-my-password-how-can-i-login">I forgot my password. How can I login?</router-link> <br>
+<router-link to="#how-can-i-change-my-personal-information">How can I change my personal information?</router-link> <br>
 ### How can I sign up?
 Click "Sign Up", then after entering the information, click “Create account” button.
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
@@ -24,6 +27,12 @@ After login into the system, you can change the information by clicking on “Pe
 </span>
 
 ## Lessons
+<br>
+<router-link to="#how-can-i-add-lesson">How can I add lesson?</router-link> <br>
+<router-link to="#how-can-i-upload-my-homework">How can I upload my homework?</router-link> <br>
+<router-link to="#how-can-i-download-the-assignment-again">How can I download the assignment again?</router-link> <br>
+<router-link to="#where-can-i-access-the-materials-that-the-teacher-has-uploaded">Where can I access the materials that the teacher has uploaded?</router-link> <br>
+
 ### How can I add lesson?
 After login into the system, click “Add new course”. Select the course you want to add on the page that open and click the “Add” button. After the instructor approves your request, the course will be added to your list of courses.
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
@@ -55,6 +64,11 @@ Click on” Course Materials". Select the material you want to download.
 </span>
 
 ## Notes and Announcement
+<br>
+<router-link to="#where-can-i-get-my-notes">Where can I get my notes?</router-link> <br>
+<router-link to="#how-is-the-announcement-or-announcement-shared">How is the announcement or announcement shared?</router-link> <br>
+<router-link to="#how-can-i-text-my-friends-about-the-lesson">How can I text my friends about the lesson?</router-link> <br>
+
 ### Where can I get my notes?
 Click the heading “Grades” to reach the scores you get from the assignments. In this section, you can see the scores you received for all the steps you contributed to the course at the level of your school number.
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >

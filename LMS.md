@@ -1,6 +1,9 @@
 # CET LMS
 
 ## Hesap Bilgileri
+<router-link to="#nasil-uye-olunur">Nasıl üye olunur?</router-link> <br>
+<router-link to="#sifreni-unuttum-nasil-giris-yaparim">Şifreni unuttum. Nasıl giriş yaparım?</router-link> <br>
+<router-link to="#kisisel-bilgilerimi-nasil-degistiririm">Kişisel bilgilerimi nasıl değiştiririm?</router-link> <br>
 ### Nasıl üye olunur?
 Sayfada yer alan “Signup” yazısına tıklayın. Bilgileri girdikten sonra “Create account” butonuna basın.
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
@@ -24,6 +27,12 @@ Sisteme giriş yaptıktan sonra, “Personal Information” başlığına tıkla
 </span>
 
 ## Dersler
+<br>
+<router-link to="#ders-nasil-eklenir">Ders nasıl eklenir?</router-link> <br>
+<router-link to="#odevi-nasil-yuklerim">Ödevi nasıl yüklerim?</router-link> <br>
+<router-link to="#yukledigim-odevi-nasil-tekrar-indiririm">Yüklediğim ödevi nasıl tekrar indiririm?</router-link> <br>
+<router-link to="#ogretmenin-yukledigi-materyallere-nereden-ulasabilirim">Öğretmenin yüklediği materyallere nereden ulaşabilirim?</router-link> <br>
+
 ### Ders nasıl eklenir?
 Sisteme giriş yaptıktan sonra, “Add new course” yazısına basın. Açılan sayfadan eklemek istediğiniz dersi seçin ve “Add” butonuna basın. Eklemek istediğiniz dersi veren hoca isteğinizi onayladıktan sonra ders, ders listenize eklenmiş olacak.
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
@@ -55,6 +64,11 @@ Yüklediğiniz ödevin olduğu kısma gelip “Download your material” yazıs�
 </span>
 
 ## Notlar ve Duyurular
+<br>
+<router-link to="#aldigim-puanlara-nereden-ulasabilirim">Aldığım puanlara nereden ulaşabilirim?</router-link> <br>
+<router-link to="#duyuru-veya-ilan-nasil-paylasilir">Duyuru veya ilan nasıl paylaşılır?</router-link> <br>
+<router-link to="#dersle-ilgili-arkadaslarima-nasil-mesaj-atabilirim">Dersle ilgili arkadaşlarıma nasıl mesaj atabilirim?</router-link> <br>
+
 ### Aldığım puanlara nereden ulaşabilirim?
 Ödevlerden aldığınız puanlara ulaşmak için “Grades” başlığını seçin. Bu kısımda derse katkı sağladığınız tüm basamaklarla ilgili aldığınız puanları okul puanınızın hizasında görebilirsiniz.
 <span style="display: block;margin-left: auto;margin-right: auto; width: 75%;" >
